@@ -1,0 +1,47 @@
+body{ background: rgb(103, 151, 196);
+}
+
+.capstoneimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.cssContainer{
+
+    border: 5px solid powderblue;
+    padding: 40px;
+}
+
+.funfactborder{
+    border: 5px solid powderblue;
+    margin: 50px;
+    color:LightCyan
+}
+
+.para_border{
+    border: 2px solid powderblue;
+    margin: 50px;
+    color: LightCyan;
+
+}
+.aboutmeborder{
+    border: 5px solid powderblue;
+}
+.ps_note{
+    color: LightCyan;
+}
+
+.clock{
+    color:lavender;
+    background: -webkit-linear-gradient(rgb(219, 205, 205), rgb(0, 0, 0));
+}
+
+.clock_title{
+    color:LightCyan;
+}
+
+#source_1{
+    color: black;
+}
